@@ -1,6 +1,6 @@
-let name = "kedir seid"; 
-let age = 23;
-const country = "Ethiopia"; 
+let name = "kedir seid"; //since it will change after
+let age = 23;//since it will change after
+const country = "Ethiopia";//since it remain unchanged over the script
 
 console.log("Name:", name);
 console.log("Age:", age);
